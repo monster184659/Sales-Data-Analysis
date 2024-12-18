@@ -16,15 +16,21 @@ Projedeki analiz adımları aşağıdaki gibidir:
 Veri Ön İşleme
 
 -Eksik verilerin tespiti ve temizlenmesi
+
 -Veri türlerinin kontrol edilmesi ve düzenlenmesi
+
 -Temel İstatistikler
 
 -Ortalama, medyan, varyans ve standart sapma hesaplamaları
+
 -Kategorik ve sayısal değişkenlerin dağılımı
+
 -Satış Trend Analizi
 
 -Zaman serisi analizleri (günlük, aylık, yıllık satış trendleri)
+
 -En çok satılan ürünler ve kategori bazlı analizler
+
 -Görselleştirme
 
 Matplotlib ve Seaborn kullanarak:
@@ -41,9 +47,9 @@ Matplotlib & Seaborn: Görselleştirme
 NumPy: Sayısal analiz
 
 # 📊 Öne Çıkan Bulgular
-En yüksek satışlar [belirli bir ürün/ay] döneminde gerçekleşmiştir.
-Satışların büyük bir kısmı [kategori/ürün adı]'ndan gelmektedir.
-Haftalık bazda [belirli günler] satışlarda zirve yaptığı gözlenmiştir.
+En yüksek satışlar 2021 yılında gerçekleşmiştir.
+Satışların büyük bir kısmı Office supplies'ndan gelmektedir.
+
 
 # 💡 Sonuç ve Öneriler
 Satış Stratejileri: En çok satan ürünlere odaklanarak pazarlama kampanyaları geliştirilebilir.
